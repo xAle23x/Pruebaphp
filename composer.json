@@ -1,0 +1,18 @@
+{
+    "name": "daw2/pruebaphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Daw2\\Pruebaphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xAle23x",
+            "email": "xale23x@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
